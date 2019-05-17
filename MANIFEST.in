@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include ruben *.css
+recursive-include ruben *.csv
+recursive-include ruben *.html
+recursive-include ruben *.ico
+recursive-include ruben *.js
+recursive-include ruben *.json
+recursive-include ruben *.md
+recursive-include ruben *.png
+recursive-include ruben *.py
+recursive-include ruben *.svg
+recursive-include ruben *.txt
+recursive-exclude ruben *.pyc
