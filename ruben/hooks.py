@@ -11,9 +11,10 @@ app_color = "red"
 app_email = "admin@totall.mx"
 app_license = "MIT"
 
+fixtures = ["Prospecto Prueba"]
 # Includes in <head>
 # ------------------
-
+# RG - Comentario de prueba
 # include js, css files in header of desk.html
 # app_include_css = "/assets/ruben/css/ruben.css"
 # app_include_js = "/assets/ruben/js/ruben.js"
@@ -119,4 +120,3 @@ app_license = "MIT"
 # override_whitelisted_methods = {
 # 	"frappe.desk.doctype.event.event.get_events": "ruben.event.get_events"
 # }
-
